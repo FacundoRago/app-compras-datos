@@ -1,0 +1,521 @@
+{
+ "fuente": "https://www.brubank.com/beneficios",
+ "auditoria": {
+  "consultado": "2026-11-09T22:45:21-03:00",
+  "beneficios": 85,
+  "de_supermercados": 1,
+  "de_nuestras_cadenas": 0
+ },
+ "beneficios": [
+  {
+   "url": "http://help.brubank.com/es/articles/10335533-todos-los-dias-40-off-en-taxi-premium-compra-con-tu-tarjeta-de-debito-y-credito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 40 off en taxi premium compra con tu tarjeta de debito y credito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/10362043-todos-los-dias-25-off-en-enter-the-exit-compra-presencial-con-tu-tarjeta-brubank-en-el-comercio",
+   "texto": "todos los dias 25 off en enter the exit compra presencial con tu tarjeta brubank en el comercio",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/11510154-todos-los-dias-10-off-en-hotel-los-silos-compra-por-whatsapp-con-tu-tarjeta-brubank",
+   "texto": "todos los dias 10 off en hotel los silos compra por whatsapp con tu tarjeta brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/11889643-todos-los-miercoles-20-off-en-deniro-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en deniro compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/11889667-todos-los-miercoles-20-off-en-molina-cafe-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en molina cafe compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/11889687-todos-los-dias-30-off-en-deniro-comprando-con-tu-tarjeta-de-debito-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los dias 30 off en deniro comprando con tu tarjeta de debito visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/11889712-todos-los-dias-30-off-en-molina-cafe-comprando-con-tu-tarjeta-de-debito-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los dias 30 off en molina cafe comprando con tu tarjeta de debito visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/11895236-todos-los-dias-15-off-en-playmobil-compra-con-tu-tarjeta-brubank-e-ingresa-el-codigo-de-descuento-bruplaymobil15",
+   "texto": "todos los dias 15 off en playmobil compra con tu tarjeta brubank e ingresa el codigo de descuento bruplaymobil15",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/12733013-50-de-reintegro-en-la-cuota-social-mensual-de-newman-pagando-con-tu-tarjeta-de-credito-o-debito-brubank",
+   "texto": "50 de reintegro en la cuota social mensual de newman pagando con tu tarjeta de credito o debito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/12743266-hasta-6-cuotas-sin-interes-en-decathlon-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 6 cuotas sin interes en decathlon con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/12960773-viernes-sabados-y-domingos-30-off-en-rapanui-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank-y-girando-la-ruedita",
+   "texto": "viernes sabados y domingos 30 off en rapanui comprando con tu tarjeta de debito y credito visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/12961178-todos-los-miercoles-20-off-en-rapanui-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en rapanui compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/12995968-todos-los-dias-40-off-en-axion-energy-compra-con-tu-tarjeta-de-debito-y-credito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 40 off en axion energy compra con tu tarjeta de debito y credito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13003276-todos-los-miercoles-20-off-en-freddo-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en freddo compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13003327-viernes-sabados-y-domingos-30-off-en-freddo-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank-y-girando-la-ruedita",
+   "texto": "viernes sabados y domingos 30 off en freddo comprando con tu tarjeta de debito y credito visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13003471-todos-los-dias-40-off-en-taxi-premium-compra-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 40 off en taxi premium compra con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13066960-3-6-y-12-cuotas-sin-interes-en-aerolineas-argentinas-en-vuelos-locales-con-tu-tarjeta-de-credito-brubank",
+   "texto": "3 6 y 12 cuotas sin interes en aerolineas argentinas en vuelos locales con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13109543-hasta-6-cuotas-sin-interes-en-nike-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 6 cuotas sin interes en nike con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13274145-hasta-12-cuotas-sin-interes-en-despegar-en-vuelos-nacionales-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 12 cuotas sin interes en despegar en vuelos nacionales con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13441145-todos-los-dias-30-off-en-taxi-premium-compra-con-tu-tarjeta-de-debito-y-credito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 30 off en taxi premium compra con tu tarjeta de debito y credito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13442323-hasta-12-cuotas-sin-interes-en-jetsmart-en-vuelos-nacionales-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 12 cuotas sin interes en jetsmart en vuelos nacionales con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/13861490-hasta-6-cuotas-sin-interes-en-devre-y-macowens-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 6 cuotas sin interes en devre y macowens con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/14477193-todos-los-dias-20-off-en-la-web-de-matter-con-tus-tarjetas-brubank",
+   "texto": "todos los dias 20 off en la web de matter con tus tarjetas brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15014024-de-2-a-9-cuotas-sin-interes-en-whirpool-y-hp-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 2 a 9 cuotas sin interes en whirpool y hp con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15014466-de-2-a-12-cuotas-sin-interes-en-hisense-lg-tienda-newsan-y-motorola-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 2 a 12 cuotas sin interes en hisense lg tienda newsan y motorola con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15014660-de-2-a-9-cuotas-sin-interes-en-pigmento-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 2 a 9 cuotas sin interes en pigmento con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15014954-de-2-a-9-cuotas-sin-interes-en-las-margaritas-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 2 a 9 cuotas sin interes en las margaritas con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15015248-hasta-6-cuotas-sin-interes-en-dexter-moov-y-stock-center-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 6 cuotas sin interes en dexter moov y stock center con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15059749-6-cuotas-sin-interes-en-thermomix-con-tu-tarjeta-de-credito-brubank",
+   "texto": "6 cuotas sin interes en thermomix con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/15565564-hasta-9-cuotas-sin-interes-en-atrapalo-en-paquetes-y-hoteles-nacionales-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 9 cuotas sin interes en atrapalo en paquetes y hoteles nacionales con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16238610-de-3-a-9-cuotas-sin-interes-en-ver-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 3 a 9 cuotas sin interes en ver con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16763750-todos-los-dias-40-off-en-chungo-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 40 off en chungo comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16763864-todos-los-dias-40-off-en-luccianos-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 40 off en luccianos comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16764932-todos-los-dias-30-off-en-rock-and-feller-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en rock and feller comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16765031-todos-los-dias-30-off-en-la-cabrera-pilar-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en la cabrera pilar comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16765653-viernes-sabados-y-domingos-30-off-en-chungo-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "viernes sabados y domingos 30 off en chungo comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16765764-todos-los-dias-30-off-en-luccianos-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en luccianos comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16766757-todos-los-miercoles-20-off-en-chungo-compra-con-tu-tarjeta-de-debito-y-credito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en chungo compra con tu tarjeta de debito y credito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/16766768-todos-los-dias-30-off-en-luccianos-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en luccianos comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/17272894-viernes-sabados-y-domingos-15-off-en-cabify-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "viernes sabados y domingos 15 off en cabify con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/17300512-de-3-a-12-cuotas-sin-interes-en-grupo-sporting-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 3 a 12 cuotas sin interes en grupo sporting con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/articles/6825261-todos-lunes-y-domingos-15-off-en-mala-compra-con-tu-tarjeta-visa-brubank-y-recibi-el-descuento-en-el-comercio",
+   "texto": "todos lunes y domingos 15 off en mala compra con tu tarjeta visa brubank y recibi el descuento en el comercio",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "http://help.brubank.com/es/collections/1958241-transferencias",
+   "texto": "transferencias",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/",
+   "texto": "",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/10215223-los-lunes-10-off-a-traves-de-la-app-ypf-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "los lunes 10 off a traves de la app ypf compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/10215239-los-lunes-10-off-a-traves-de-la-app-ypf-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "los lunes 10 off a traves de la app ypf compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/10219148-de-lunes-a-viernes-25-off-en-alto-parque-compra-presencial-con-tu-tarjeta-brubank-con-el-codigo-de-descuento-bruparque",
+   "texto": "de lunes a viernes 25 off en alto parque compra presencial con tu tarjeta brubank con el codigo de descuento bruparque",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/12996234-todos-los-dias-30-off-en-burger-king-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en burger king comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/12996266-todos-los-dias-40-off-en-cabify-compra-con-tu-tarjeta-de-debito-visa-brubank",
+   "texto": "todos los dias 40 off en cabify compra con tu tarjeta de debito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/12996340-todos-los-dias-50-off-en-cerini-compra-con-tu-tarjeta-de-debito-visa-brubank",
+   "texto": "todos los dias 50 off en cerini compra con tu tarjeta de debito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/12996353-todos-los-dias-30-off-en-farmacity-simplicity-get-the-look-the-food-market-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en farmacity simplicity get the look the food market comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/12996363-todos-los-dias-40-off-en-le-pain-quotidien-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 40 off en le pain quotidien comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/12996466-todos-los-dias-40-off-en-rapanui-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 40 off en rapanui comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/13003406-todos-los-dias-40-off-en-freddo-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 40 off en freddo comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/13003457-todos-los-lunes-10-off-a-traves-de-la-app-ypf-compra-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los lunes 10 off a traves de la app ypf compra con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/13064386-hasta-12-cuotas-sin-interes-en-samsung-samshop-diggit-ferbi-jbl-9z-y-quint-con-tu-tarjeta-de-credito-brubank",
+   "texto": "hasta 12 cuotas sin interes en samsung samshop diggit ferbi jbl 9z y quint con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/13124163-cuales-son-las-tasas-vigentes",
+   "texto": "cuales son las tasas vigentes",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/13128565-cuales-son-las-tasas-de-interes",
+   "texto": "cuales son las tasas de interes",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/13977196-30-de-descuento-los-jueves-en-supermercados-coto",
+   "texto": "30 de descuento los jueves en supermercados coto",
+   "nuestras_cadenas": false,
+   "supermercado": true
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/16847697-farmacity-simplicity-y-get-the-look-con-3-y-6-cuotas-sin-interes-con-tu-tarjeta-de-credito-brubank",
+   "texto": "farmacity simplicity y get the look con 3 y 6 cuotas sin interes con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/16847721-de-3-a-12-cuotas-sin-interes-en-on-city-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 3 a 12 cuotas sin interes en on city con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/16961033-todos-los-dias-30-off-en-cucina-d-onore-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en cucina d onore comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/16962855-todos-los-dias-30-off-en-tucson-comprando-con-tu-tarjeta-de-debito-y-credito-visa-brubank",
+   "texto": "todos los dias 30 off en tucson comprando con tu tarjeta de debito y credito visa brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/16963373-de-3-a-12-cuotas-sin-interes-en-arredo-con-tu-tarjeta-de-credito-brubank",
+   "texto": "de 3 a 12 cuotas sin interes en arredo con tu tarjeta de credito brubank",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/6565248-tasas-vigentes-prestamo-personal",
+   "texto": "tasas vigentes prestamo personal",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/8879820-todos-los-dias-30-off-en-cervelar-comprando-con-tu-tarjeta-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los dias 30 off en cervelar comprando con tu tarjeta visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9006824-de-jueves-a-domingo-30-off-en-eyelit-compra-con-tu-tarjeta-visa-brubank-y-gira-la-ruedita",
+   "texto": "de jueves a domingo 30 off en eyelit compra con tu tarjeta visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010023-todos-los-martes-10-off-en-la-carga-de-combustible-en-axion-energy-compra-con-tu-tarjeta-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los martes 10 off en la carga de combustible en axion energy compra con tu tarjeta visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010094-todos-los-dias-10-off-en-biomac-compra-con-tu-tarjeta-visa-brubank-y-recibi-el-descuento-en-el-comercio",
+   "texto": "todos los dias 10 off en biomac compra con tu tarjeta visa brubank y recibi el descuento en el comercio",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010108-todos-los-lunes-y-viernes-20-off-en-burger-king-comprando-con-tu-tarjeta-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los lunes y viernes 20 off en burger king comprando con tu tarjeta visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010125-todos-los-miercoles-20-off-en-cervelar-compra-con-tu-tarjeta-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en cervelar compra con tu tarjeta visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010208-todos-los-viernes-20-off-en-farmacity-simplicity-get-the-look-the-food-market-compra-con-tu-tarjeta-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los viernes 20 off en farmacity simplicity get the look the food market compra con tu tarjeta visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010565-todos-los-miercoles-20-off-en-le-pain-quotidien-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los miercoles 20 off en le pain quotidien compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010641-todos-los-dias-20-off-en-axion-energy-compra-con-tu-tarjeta-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 20 off en axion energy compra con tu tarjeta visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010654-todos-los-dias-30-off-en-burger-king-comprando-con-tu-tarjeta-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los dias 30 off en burger king comprando con tu tarjeta visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010662-todos-los-dias-30-off-en-cabify-compra-con-tu-tarjeta-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 30 off en cabify compra con tu tarjeta visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010712-todos-los-dias-30-off-en-farmacity-simplicity-get-the-look-the-food-market-comprando-con-tu-tarjeta-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los dias 30 off en farmacity simplicity get the look the food market comprando con tu tarjeta visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9010738-todos-los-dias-30-off-en-le-pain-quotidien-comprando-con-tu-tarjeta-visa-brubank-y-girando-la-ruedita",
+   "texto": "todos los dias 30 off en le pain quotidien comprando con tu tarjeta visa brubank y girando la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9016234-todos-los-dias-50-off-en-cerini-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 50 off en cerini compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9264153-todos-los-dias-50-off-en-bacan-paez-peluqueria-monica-team-nana-nails-estudio-wonder-moon-hair-studio-compra-con-tu-tarjeta-de-debito-visa-brubank-y-gira-la-ruedita",
+   "texto": "todos los dias 50 off en bacan paez peluqueria monica team nana nails estudio wonder moon hair studio compra con tu tarjeta de debito visa brubank y gira la ruedita",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/articles/9787406-todos-los-viernes-10-off-en-selma-digital-compra-con-tu-tarjeta-de-debito-o-credito-visa-brubank-y-recibi-el-descuento-en-el-momento",
+   "texto": "todos los viernes 10 off en selma digital compra con tu tarjeta de debito o credito visa brubank y recibi el descuento en el momento",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/collections/1958242-tarjetas",
+   "texto": "tarjetas",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/collections/3077858-prestamos-y-anticipos",
+   "texto": "prestamos y anticipos",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/collections/3214429-inversiones",
+   "texto": "inversiones",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  },
+  {
+   "url": "https://help.brubank.com/es/collections/4031300-contacto",
+   "texto": "contacto",
+   "nuestras_cadenas": false,
+   "supermercado": false
+  }
+ ]
+}

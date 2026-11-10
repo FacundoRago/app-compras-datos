@@ -1,0 +1,1339 @@
+{
+ "fuente": "https://www.laanonima.com.ar/empresa/promociones-y-descuentos",
+ "auditoria": {
+  "consultado": "2026-11-09T16:15:56-03:00",
+  "tarjetas_en_pagina": 111,
+  "promos_distintas": 65,
+  "aplican_o_dudosas": 2
+ },
+ "aplican": [
+  {
+   "titulo": "Los lunes tenés 15% de descuento pagando con Mercado Pago",
+   "dias": [
+    "lunes"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Lunes. Beneficio: 15% de descuento. Tope/condiciones: Sin tope de reintegro. Excluye electro. Medio de pago: Todos los medios de pago a traves del QR. Promoción válida en todas las sucursales físicas en las regiones: La pampa- Buenos aires - Santa fe - Corrientes- Cordoba - Chaco - (Excluye Carmen de Patagones) - Incluye todas las sucursales Libertad.",
+   "data_day": "|1|",
+   "data_bank": "|15|",
+   "porcentaje": 15.0,
+   "cuotas": false,
+   "sin_tope": true,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": [
+    "mercadopago_dinero_en_cuenta"
+   ]
+  },
+  {
+   "titulo": "20% de reintegro pagando con MODO",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Todos los viernes y sábados 20% de reintegro pagando con MODO. Tope de reintegro: $15.000 mensuales por banco. Compra mínima $ 50.000. Promoción válida en todas las sucursales del pais. Válida desde el 01/10 al 31/03/27.",
+   "data_day": "|5|6|",
+   "data_bank": "|5|",
+   "porcentaje": 20.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 15000.0,
+   "tope_periodo": "mensual",
+   "minimo": 50000.0,
+   "vigencia_texto": [
+    "01/10",
+    "31/03/27"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": [
+    "modo_cualquier_banco"
+   ]
+  }
+ ],
+ "todas": [
+  {
+   "titulo": "Todos los días, tenés 4 Cuotas sin interés con BANCOR.",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Días: Todos los días. Beneficio: 4 cuotas sin interés. Medio de pago: Tarjeta Visa y Master. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Promoción válida en todas las sucursales físicas en Laboulaye, Morteros, Arroyito, Marcos Juárez, Lugones, Rivera Indarte, Jacinto Rios y Ruta 9. Desde el 01/11/2026 hasta el 31/12/2026.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|6|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Martes 25% de Descuento con Banco Hipotecario MODO",
+   "dias": [
+    "martes"
+   ],
+   "legal": "Todos los martes, 25% de descuento con Banco Hipotecario pagando con tarjeta de débito a través de MODO. Tope de reintegro $10.000 segmento masivo, $30.000 para segmento Búho One, Búho Sueldo, Jubilados y Emprendedor; ambos topes por mes y por cuenta. Promoción válida en todas las sucursales físicas desde el 01/09/26 hasta el 30/11/2026.",
+   "data_day": "|2|",
+   "data_bank": "|5|9|",
+   "porcentaje": 25.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 10000.0,
+   "tope_periodo": "por mes",
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Jueves 20% de reintegro con ICBC MODO",
+   "dias": [
+    "jueves"
+   ],
+   "legal": "Válido 01/10 al 31/12/26. Días: Jueves. Beneficio: 20% de ahorro. Tope/condiciones: $ 15.000 semanal. Medio de pago: Tarjeta de débito Visa a través de MODO. Promoción válida en todas las sucursales físicas sólo para Rio Gallegos- Laboulaye- Rafaela-Sunchales- Gral Pico- Venado Tuerto- Bariloche- San Martin de los andes- Comodoro Rivadavia- Usuhaia- Lugones -Rivera Indarte - Jacinto Rios - Ruta 9 - Rosario -Rafaela-Bell Ville.",
+   "data_day": "|4|",
+   "data_bank": "|1|5|",
+   "porcentaje": 20.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 15000.0,
+   "tope_periodo": "semanal",
+   "minimo": null,
+   "vigencia_texto": [
+    "01/10",
+    "31/12/26"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los viernes y sábados 30% de reintegro con Banco Santa Cruz MODO",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Válido 01/11 al 31/12/2026. Días: Viernes y Sábado. Beneficio: 30% de reintegro. Tope/condiciones: $ 18.000 por mes y por cuenta. Minimo de compra $ 50.000. Medio de pago: Tarjeta de crédito visa y Mastercard de BSC.",
+   "data_day": "|5|6|",
+   "data_bank": "|4|5|",
+   "porcentaje": 30.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 18000.0,
+   "tope_periodo": "por mes",
+   "minimo": 50000.0,
+   "vigencia_texto": [
+    "01/11",
+    "31/12/2026"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Los viernes y sábados tenés 30% de descuento con Banco Santa Fe MODO",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Válido 01/11 al 31/12/2026. Días: Viernes y Sábado en Sucursales de la Pcia de Santa Fe. Beneficio: 30% de ahorro en 1 pago. Tope/condiciones: $ 18.000 por mes y por cuenta. Minimo de compra $ 50.000. Medio de pago: Tarjeta de credito desde la App del banco o APP MODO.",
+   "data_day": "|5|6|",
+   "data_bank": "|12|5|",
+   "porcentaje": 30.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 18000.0,
+   "tope_periodo": "por mes",
+   "minimo": 50000.0,
+   "vigencia_texto": [
+    "01/11",
+    "31/12/2026"
+   ],
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Anses y Jubilados con BNA/MODO tenés 5% de descuento en supermercados adheridos a “Semana Nación Supermercados”.",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes"
+   ],
+   "legal": "Válido 01/10 al 31/03/27. Días: Lunes,Martes, Miércoles, Jueves, Viernes. Beneficio: 5% de descuento en supermercados adheridos a “Semana Nación Supermercados”. Tope/condiciones: Por cliente de hasta $ 5.000 por semana, máximo $ 20.000 por mes. Medio de pago: Tarjetas de Crédito Visa y Mastercard y Tarjetas de Débito Mastercard Débito, pagando exclusivamente con MODO BNA+ escaneando QR MODO.",
+   "data_day": "|1|2|3|4|5|",
+   "data_bank": "|5|7|",
+   "porcentaje": 5.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 5000.0,
+   "tope_periodo": "por semana",
+   "minimo": null,
+   "vigencia_texto": [
+    "01/10",
+    "31/03/27"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "3 Cuotas SIN Interés con Galicia de Jueves a Domingos",
+   "dias": [
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 03/09 al 30/11/2026. Días: Jueves, viernes, sábado y Domingo. Beneficio: Hasta 3 cuotas sin interés. Medio de pago: Tarjeta de crédito Visa y Master (Tarjetas físicas-App Galicia-Modo). CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Promoción válida en todas las sucursáles físicas.",
+   "data_day": "|4|5|6|7|",
+   "data_bank": "|0|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "03/09",
+    "30/11/2026"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": [
+    "galicia",
+    "modo_cualquier_banco"
+   ]
+  },
+  {
+   "titulo": "Todos los días 3 cuotas sin interés con Mutualcard CABAL",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/07 al 31/12/26. Días: Todos los días. Beneficio: 3 cuotas sin interés. Medio de pago: Tarjeta mutual card cabal. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%.. Promoción válida en todas las sucursales en las provincias de Junin y Venado Tuerto.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|23|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/07",
+    "31/12/26"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días 3 cuotas sin interés con Elebar",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/05 al 31/12/2026. Días: Todos los días. Beneficio: 3 cuotas sin interés. Medio de pago: Tarjeta Elebar. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Ciudades participantes: 9 de Julio, Azul, Bragado, Carlos Casares, Chivilcoy, General Villegas, Lincoln, Pehuajó y Trenque Lauquen. Promoción válida en todas las sucursales físicas.",
+   "data_day": "|1|2|3|4|5|6|7",
+   "data_bank": "|11|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/05",
+    "31/12/2026"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Los jueves hasta 30% de descuento con Banco Patagonia",
+   "dias": [
+    "jueves"
+   ],
+   "legal": "Válido 01/10 al 31/03/27. Días: Jueves. Beneficio: Patagonia Singular: 30% en 1 pago. Patagonia Plus: 20% en 1 pago. Patagonia Clásica: 15% en 1 pago. Tope/condiciones: Patagonia Singular Tope: $20.000 mensual Patagonia Plus: 20% en 1 pago. Tope: $15.000 mensual Patagonia Clásica: 15% en 1 pago. Tope: $10.000 mensual. Medio de pago: Tarjetas de crédito de Banco Patagonia.",
+   "data_day": "|4|",
+   "data_bank": "|2|",
+   "porcentaje": 30.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 20000.0,
+   "tope_periodo": "mensual",
+   "minimo": null,
+   "vigencia_texto": [
+    "01/10",
+    "31/03/27"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días tenés 3 cuotas sin interés pagando con Mercado Pago",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: Hasta 3 cuotas sin interés. Tope/condiciones: Válido en compra mínima de $50.000 para 2 CSI y en compra mínima de $ 150.000 para 3 CSI. Medio de pago: Tarjeta de credito Mercado Pago Pagando con QR. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Promoción válida en todas las sucursales físicas del país.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|15|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": 50000.0,
+   "tope_periodo": null,
+   "minimo": 50000.0,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Los lunes tenés 15% de descuento pagando con Mercado Pago",
+   "dias": [
+    "lunes"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Lunes. Beneficio: 15% de descuento. Tope/condiciones: Sin tope de reintegro. Excluye electro. Medio de pago: Todos los medios de pago a traves del QR. Promoción válida en todas las sucursales físicas en las regiones: La pampa- Buenos aires - Santa fe - Corrientes- Cordoba - Chaco - (Excluye Carmen de Patagones) - Incluye todas las sucursales Libertad.",
+   "data_day": "|1|",
+   "data_bank": "|15|",
+   "porcentaje": 15.0,
+   "cuotas": false,
+   "sin_tope": true,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": [
+    "mercadopago_dinero_en_cuenta"
+   ]
+  },
+  {
+   "titulo": "Lunes con 10% de descuento pagando con tarjetas FinanYa",
+   "dias": [
+    "lunes"
+   ],
+   "legal": "Tenés 10% de descuento en tu compra pagando con tarjetas FinanYa en 1 pago. Tope de reintegro $20.000 semanal. Promoción válida en todas las sucursales físicas en las regiones: Rafaela, Esperanza, Sunchales y Rafaela (Libertad) desde el 01/11/2026 hasta el 31/01/2027.",
+   "data_day": "|1|",
+   "data_bank": "|19|",
+   "porcentaje": 10.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 20000.0,
+   "tope_periodo": "semanal",
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "3 CSI en toda tu compra con tarjetas Favacard",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/11/2026 al 31/01/2027. Días: Todos los días. Beneficio: 3 CSI para toda la compra. Medio de pago: Tarjetas Favacard (excepto Favacard Cabal). CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Promoción válida en todas las sucursales físicas en: Trenque Lauquen - América - Azul - 9 de Julio - Pehuajó - Carlos Casares.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|16|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/11/2026",
+    "31/01/2027"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Martes 20% de descuento con Banco Columbia",
+   "dias": [
+    "martes"
+   ],
+   "legal": "Todos los martes tenés 20% de descuento en tu compra pagando con tarjeta de crédito Visa y Mastercard, tope $ 15.000 por cuenta. Promoción válida en todas las sucursales físicas en del país, desde el 01/10/2026 hasta el 31/03/2027.",
+   "data_day": "|2|",
+   "data_bank": "|20|",
+   "porcentaje": 20.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 15000.0,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Viernes y sábados tenés 10% de reintegro BNA+MODO",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Viernes y sábados 10% de reintegro abonando en 1 pago con BNA+MODO. Tarjeta de crédito mastercard y tarjeta de débito mastercard débito. Promoción válida para tarjetas de crédito Visa y Master emitidas por BNA. Promoción válida en sucursales físicas desde el 01/10/26 hasta el 31/12/26.",
+   "data_day": "|5|6|",
+   "data_bank": "|7|5|",
+   "porcentaje": 10.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "20% de reintegro pagando con MODO",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Todos los viernes y sábados 20% de reintegro pagando con MODO. Tope de reintegro: $15.000 mensuales por banco. Compra mínima $ 50.000. Promoción válida en todas las sucursales del pais. Válida desde el 01/10 al 31/03/27.",
+   "data_day": "|5|6|",
+   "data_bank": "|5|",
+   "porcentaje": 20.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 15000.0,
+   "tope_periodo": "mensual",
+   "minimo": 50000.0,
+   "vigencia_texto": [
+    "01/10",
+    "31/03/27"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": [
+    "modo_cualquier_banco"
+   ]
+  },
+  {
+   "titulo": "Lunes 30% de descuento con Banco Patagonia.",
+   "dias": [
+    "lunes"
+   ],
+   "legal": "Válido 07/09 al 31/12/2026. Días: Lunes. Beneficio: 30% de descuento. Tope/condiciones: $ 20.000 por cliente por mes. Medio de pago: Tarjeta de crédito VISA exclusivo NFC.",
+   "data_day": "|1|",
+   "data_bank": "|2|",
+   "porcentaje": 30.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 20000.0,
+   "tope_periodo": "por mes",
+   "minimo": null,
+   "vigencia_texto": [
+    "07/09",
+    "31/12/2026"
+   ],
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días 3 cuotas sin interés en tu compra con Tarjeta La Anónima",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: 3 cuotas sin interés. Tope/condiciones: Exclusivo clientes Plus. Medio de pago: Tarjeta de crédito La Anónima. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Válido sucursales físicas (excluye sucursales Libertad).",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|32|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Viernes y sábados tenés 3 cuotas sin interés con tarjeta Tuya",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Válido 01/11 al 30/11/2026. Días: Viernes y Sábado. Beneficio: 3 cuotas sin interés. Medio de pago: Tarjeta Tuya. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%.",
+   "data_day": "|5|6|",
+   "data_bank": "|24|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/11",
+    "30/11/2026"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días tenés 3 cuotas sin interés con Banco de Tierra de Fuego",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/11 al 30/11/2026. Días: Todos los días. Beneficio: Hasta 3 cuotas sin interés. Medio de pago: Tarjeta de crédito Fueguina Visa y Fueguina Master. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%.Promoción Válida solo en las sucursales de Tierra del fuego, Rio Gallego, Calafate, Buenos Aires.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|26|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/11",
+    "30/11/2026"
+   ],
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Los miércoles tenés 10% de descuento con cuenta DNI",
+   "dias": [
+    "miercoles"
+   ],
+   "legal": "10% de descuento los días miércoles con cuenta DNI. Tope de reintegro $ 5000 por semana por persona. Compra mínima $ 25.000. Válido sólo en provincia de BsAs desde el 01/11 al 30/11/2026.",
+   "data_day": "|3|",
+   "data_bank": "|27|",
+   "porcentaje": 10.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 5000.0,
+   "tope_periodo": "por semana",
+   "minimo": 25000.0,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Los Miércoles con cuenta DNI tenés 5% de descuento adicional para jubilados",
+   "dias": [
+    "miercoles"
+   ],
+   "legal": "Válido 01/11 al 30/11/2026. Días: Miércoles. Beneficio: 5% de descuento adicional. Tope/condiciones: Tope de reintegro unificado: $5.000 de acuerdo a la vigencia de cada promoción y por persona. Beneficio acumulable con la promo Cta Dni. Medio de pago: QR Cuenta DNI, Clave DNI, Cuenta DNI Comercios y QR interoperable.",
+   "data_day": "|3|",
+   "data_bank": "|27|",
+   "porcentaje": 5.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 5000.0,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/11",
+    "30/11/2026"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días 4 cuotas sin interés en tu compra con Tarjeta La Anónima",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: 4 cuotas sin interés. Tope/condiciones: Exclusivo clientes Plus. Medio de pago: Tarjeta de crédito La Anónima. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Válido solo en las siguientes sucursales físicas: Goya, Bella Vista, Resistencia, Lugones, Rivera Indarte, Jacinto Ríos, Ruta 9, Laboulaye, Morteros, Arroyito, Marcos Juárez, San Juan, Tucumán I, Tucumán II, Salta, Santiago, Posadas, Rosario, Rafaela Libertad, Rafaela Centro, Rafaela Max I y Rafaela Max II, Bell Ville.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|32|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días 4 cuotas sin interés en tu compra con Naranja X.",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/11 al 30/11/2026. Días: Todos los días. Beneficio: 4 cuotas cero interés. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Válido sólo en las siguientes sucursales físicas: Goya, Bella Vista, Resistencia, Lugones, Rivera Indarte, Jacinto Ríos, Ruta 9, Laboulaye, Morteros, Arroyito, Marcos Juárez, San Juan, Tucumán I, Tucumán II, Salta, Santiago, Posadas, Rosario, Rafaela Libertad, Rafaela Centro, Rafaela Max I y Rafaela Max II y Bell Ville.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|31|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/11",
+    "30/11/2026"
+   ],
+   "alcance_libertad_1051": "si",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "20% de reintegro + 4 cuotas sin interés con Tarjeta Sol, los Jueves",
+   "dias": [
+    "jueves"
+   ],
+   "legal": "Válido 01/11 al 30/11/2026. Días: Jueves. Beneficio: 4 cuotas sin interes + 20% de reintegro. Tope/condiciones: $10.000 por transacción. Medio de pago: Tarjeta Sol. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%.Promoción válida en las sucursales Físicas: Libertad Tucumán, Salta, Santiago del Estero y Córdoba (todas las de la anonima y Libertad).",
+   "data_day": "|4|",
+   "data_bank": "|29|",
+   "porcentaje": 20.0,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": 10000.0,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/11",
+    "30/11/2026"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Ahorrá 30% con Banco de San Juan y MODO",
+   "dias": [
+    "viernes",
+    "sabado"
+   ],
+   "legal": "Válido 01/11 al 31/12/2026. Días: Viernes y Sábado. Beneficio: 30% de ahorro en 1 pago. Tope/condiciones: $ 18.000 por mes y por cuenta. Minimo de compra $ 50.000. Medio de pago: Tarjeta de credito desde la App del banco o APP MODO. Válido sólo para las sucursales de San Juan.",
+   "data_day": "|5|6|",
+   "data_bank": "|30|5|",
+   "porcentaje": 30.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 18000.0,
+   "tope_periodo": "por mes",
+   "minimo": 50000.0,
+   "vigencia_texto": [
+    "01/11",
+    "31/12/2026"
+   ],
+   "alcance_libertad_1051": "no",
+   "medios_facundo": [
+    "modo_cualquier_banco"
+   ]
+  },
+  {
+   "titulo": "Todos los días, tenés 4 Cuotas sin interés con Tarjeta Sucrédito.",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: 4 cuotas sin interés. Medio de pago: Tarjeta Sucrédito. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%.Válido en las sucursales ubicadas en: Córdoba (La anónima y Libertad), Salta, Santiago del estero y Tucumán.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|33|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Miércoles 20% de descuento con Patagonia 365 del Banco Chubut.",
+   "dias": [
+    "miercoles"
+   ],
+   "legal": "Miércoles 20% de descuento. Medio de pago: Tarjeta de credito Patagonia 365. Tope $10.000 por mes. Promoción válida en todas las sucursales físicas del 01/11/2026 hasta el 31/01/2027 en la provincia de Chubut.",
+   "data_day": "|3|",
+   "data_bank": "|3|",
+   "porcentaje": 20.0,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": 10000.0,
+   "tope_periodo": "por mes",
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días 3 cuotas sin interés con Tarjeta Titanio",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: 3 cuotas sin interés. Medio de pago: Tarjeta Titanio. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Válido en la sucursal física ubicada en: Tucumán.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|34|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días hatas 3 cuotas sin interés con Credimas",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: Hasta 3 cuotas sin interés. Medio de pago: Tarjeta credimas. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Válido en las sucursales físicas ubicada en: Salta, Tucumán, Santiago del Estero. Válido desde 01/09/26 hasta el 30/11/26.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|35|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Todos los días 3 cuotas sin interés con Tarjeta única",
+   "dias": [
+    "lunes",
+    "martes",
+    "miercoles",
+    "jueves",
+    "viernes",
+    "sabado",
+    "domingo"
+   ],
+   "legal": "Válido 01/09 al 30/11/26. Días: Todos los días. Beneficio: 3 cuotas sin interés. Medio de pago: Tarjeta única. CFT: 0% CARTERA DE CONSUMO. TASA NOMINAL ANUAL (TNA): 0,00%, TASA EFECTIVA ANUAL (TEA): 0,00%, COSTO FINANCIERO TOTAL EFECTIVO ANUAL (CFTEA): 0,00%. Válido en la sucursal física ubicada en: Santiago del Estero.",
+   "data_day": "|1|2|3|4|5|6|7|",
+   "data_bank": "|36|",
+   "porcentaje": null,
+   "cuotas": true,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": [
+    "01/09",
+    "30/11/26"
+   ],
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN MARROQUINERÍA",
+   "dias": [],
+   "legal": "Desde 02/10/2023 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN ACOLCHADOS, CUBRECAMAS, FRAZADAS Y MANTAS, CORTINAS ROLLERS",
+   "dias": [],
+   "legal": "Desde 03/12/2025 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN VARIOS ELECTRO",
+   "dias": [],
+   "legal": "Desde 08/11/2018 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN ELECTRO ART MAY O IGUAL A $15000 Y LINEA BLANCA",
+   "dias": [],
+   "legal": "Desde 08/11/2018 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN TODO MARROQUINERÍA",
+   "dias": [],
+   "legal": "Desde 03/02/2025 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN TODA LA WEB",
+   "dias": [],
+   "legal": "Desde 05/08/2022 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN TODO CALZADO, OLLAS, CACEROLAS, SARTENES, WOKS Y BIFERAS, LIBRERÍA, CAMPERAS",
+   "dias": [],
+   "legal": "Desde 06/04/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN SELECCIÓN DE: HERRAMIENTAS, CAJAS DE HERRAMIENTAS, ESCALERAS Y JARDINERIA",
+   "dias": [],
+   "legal": "Desde 01/07/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN SET DE COCCIÓN",
+   "dias": [],
+   "legal": "Desde 17/06/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN MUEBLES SELECCIONADOS",
+   "dias": [],
+   "legal": "Desde 03/08/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN COLCHONES Y SOMMIERS SELECCIONADOS Y JUGUETES",
+   "dias": [],
+   "legal": "Desde 01/09/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN COLCHONES Y SOMMIERS SELECCIONADOS",
+   "dias": [],
+   "legal": "Desde 01/09/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN SABANAS Y JUEGOS DE CAMA, INDUMENTARIA, LENCERIA",
+   "dias": [],
+   "legal": "Desde 03/12/2025 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN ALMOHADAS",
+   "dias": [],
+   "legal": "Desde 02/02/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN ALFOMBRAS LIVING Y EXTERIOR",
+   "dias": [],
+   "legal": "Desde 04/05/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN DECORACIÓN DE INTERIORES",
+   "dias": [],
+   "legal": "Desde 01/10/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN DEPORTES SELECCIONADOS, EN SELECCIÓN DE: CALEFACCIÓN ELÉCTRICA, A GAS Y LEÑA",
+   "dias": [],
+   "legal": "Desde 01/10/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN SELECCIÓN DE: BICICLETAS, MAQUINAS DE EJERCICIO Y RECREACIÓN DEPORTIVA",
+   "dias": [],
+   "legal": "Desde 02/11/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN LIMPIEZA Y ORGANIZACION",
+   "dias": [],
+   "legal": "Desde 01/10/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN DEPORTES SELECCIONADOS",
+   "dias": [],
+   "legal": "Desde 01/10/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN SELECCIÓN DE: CALEFACCIÓN ELÉCTRICA, A GAS Y LEÑA",
+   "dias": [],
+   "legal": "Desde 01/10/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN SABANAS Y JUEGOS DE CAMA",
+   "dias": [],
+   "legal": "Desde 03/12/2025 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN OLLAS, CACEROLAS, SARTENES, WOKS Y BIFERAS, LIBRERÍA, CAMPERAS",
+   "dias": [],
+   "legal": "Desde 06/04/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN TODO CALZADO",
+   "dias": [],
+   "legal": "Desde 06/04/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN COLCHONES Y SOMMIERS SELECCIONADOS, JUGUETES",
+   "dias": [],
+   "legal": "Desde 01/09/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "EN TODA TU COMPRA EXCLUSIVO CLIENTES PLUS (EXCLUSIVO TIENDAS FÍSICAS)",
+   "dias": [],
+   "legal": "Desde 27/03/2024 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "no",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo Raspadita",
+   "dias": [],
+   "legal": "Desde 19/10/2026 hasta 01/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo Danone",
+   "dias": [],
+   "legal": "Desde 02/11/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo CIF & SUN",
+   "dias": [],
+   "legal": "Desde 02/11/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo Aniversario LAOL",
+   "dias": [],
+   "legal": "Desde 02/10/2026 hasta 11/10/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo Bellagio",
+   "dias": [],
+   "legal": "Desde 13/08/2026 hasta 30/11/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo Mascotas",
+   "dias": [],
+   "legal": "Desde 15/07/2026 hasta 15/08/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  },
+  {
+   "titulo": "Promo Aniversario 118",
+   "dias": [],
+   "legal": "Desde 02/07/2026 hasta 12/07/2026",
+   "data_day": "",
+   "data_bank": "",
+   "porcentaje": null,
+   "cuotas": false,
+   "sin_tope": false,
+   "tope": null,
+   "tope_periodo": null,
+   "minimo": null,
+   "vigencia_texto": null,
+   "alcance_libertad_1051": "dudoso",
+   "medios_facundo": []
+  }
+ ]
+}
