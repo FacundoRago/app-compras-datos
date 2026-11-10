@@ -1,0 +1,110 @@
+{
+ "fecha": "2026-11-10",
+ "generado": "2026-11-10T20:39:58-03:00",
+ "duracion_segundos": 160,
+ "fuentes": {
+  "sepa": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 41,
+   "fecha_datos": "2026-11-10"
+  },
+  "modo": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 100
+  },
+  "galicia": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 15
+  },
+  "carrefour_promos": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 1
+  },
+  "anonima_promos": {
+   "resultado": "ok_desde_pc",
+   "fecha_pc": "2026-11-09",
+   "dias": 1,
+   "segundos": 0
+  },
+  "brubank": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 0
+  }
+ },
+ "conteos": {
+  "sepa": {
+   "productos_10-3-767": 2129,
+   "productos_10-1-9": 20491,
+   "productos_10-3-786": 2584,
+   "productos_10-3-644": 2708,
+   "productos_2-1-379": 7480,
+   "productos_9-1-32": 3710,
+   "productos_9-1-473": 2303,
+   "con_oferta_10-3-767": 60,
+   "con_oferta_10-1-9": 1710,
+   "con_oferta_10-3-786": 61,
+   "con_oferta_10-3-644": 69,
+   "con_oferta_2-1-379": 2347,
+   "con_oferta_9-1-32": 0,
+   "con_oferta_9-1-473": 0
+  },
+  "modo": {
+   "promos_que_aplican": 2,
+   "auditoria_candidatas": 1188,
+   "auditoria_vigentes_o_proximas": 1033,
+   "auditoria_aplican": 2,
+   "auditoria_descartadas": 1031
+  },
+  "galicia": {
+   "promos_que_aplican": 2,
+   "auditoria_catalogo_total": 1817,
+   "auditoria_supermercados": 35,
+   "auditoria_de_nuestras_cadenas": 4,
+   "auditoria_aplican": 2
+  },
+  "carrefour_promos": {
+   "filas": 177,
+   "vigentes": 30,
+   "vigentes_express": 15,
+   "aplican_a_facundo": 1
+  },
+  "anonima_promos": {
+   "tarjetas_en_pagina": 111,
+   "promos_distintas": 65,
+   "aplican_o_dudosas": 2
+  },
+  "brubank": {
+   "beneficios": 85,
+   "de_supermercados": 1,
+   "de_nuestras_cadenas": 0
+  }
+ },
+ "archivo": {
+  "origen_sepa": "sepa_2026-11-10.json",
+  "fecha_sepa": "2026-11-10",
+  "fechas_promos": {
+   "modo": "2026-11-10",
+   "galicia": "2026-11-10",
+   "carrefour_promos": "2026-11-10",
+   "anonima_promos": "2026-11-09"
+  },
+  "lineas_por_tipo": {
+   "M": 7,
+   "S": 7,
+   "P": 9967,
+   "$": 25745,
+   "A": 83,
+   "R": 449,
+   "B": 3714,
+   "Q": 6
+  },
+  "bytes_gzip": 473683,
+  "sha256": "6ad5d9e1de3a62b120cac67026e194678227f64349080fc66e2da779dc99f860"
+ },
+ "alertas": []
+}

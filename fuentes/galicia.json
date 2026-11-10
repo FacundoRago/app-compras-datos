@@ -1,0 +1,511 @@
+{
+ "fuente": "Galicia",
+ "auditoria": {
+  "consultado": "2026-11-10T20:39:49-03:00",
+  "catalogo_total": 1817,
+  "supermercados": 35,
+  "de_nuestras_cadenas": 4,
+  "por_tipo": {
+   "cuotas": 2,
+   "ahorro": 2
+  },
+  "aplican": 2
+ },
+ "promos": [
+  {
+   "id": 188686,
+   "comercio": "Supermercados La Anonima",
+   "porcentaje": 20,
+   "dias": [
+    "viernes",
+    "sábado"
+   ],
+   "desde": "01/11/2026",
+   "hasta": "31/12/2026",
+   "minimo": 50000.0,
+   "tope": 15000,
+   "tope_periodo": "Mensual",
+   "tope_agrupa_por": "Cliente",
+   "segmento": "Cross",
+   "solo_qr": true,
+   "tienda_fisica": true,
+   "via_modo": true,
+   "como_pagar": "Pagando con MODO desde la App Galicia, eligiendo tu <b>Tarjeta de Débito Visa o tus Tarjetas Galicia</b>.",
+   "acumulable": false,
+   "medios_facundo": {
+    "galicia_visa_debito": true,
+    "galicia_master_credito": true
+   },
+   "locales_total": 184,
+   "legales": "CARTERA DE CONSUMO. Promoción del 20% de ahorro en compras superiores a $50.000 realizadas en el país, en un pago sobre el precio de contado. Tope de reintegro: $15.000 en total por mes, incluye compras de adicionales. Válida para Viernes y Sábado  comprendidos entre 01/11/2026 y el 31/12/2026, para compras realizadas con Tarjeta Galicia Débito, Tarjeta Visa y Tarjeta Mastercard. Promoción valida únicamente en los comercios adheridos. El importe ahorrado se acreditará dentro de los 10 días hábiles posteriores a la compra en la caja de ahorro común. Para acceder a la promoción, el participante deberá tener abierta una caja de ahorro común en el Banco, en donde se acreditará el monto del reintegro. Si el cliente tuviera más de una cuenta, el crédito se realizará en cualquiera de ellas a elección del Banco. Dicha promoción no es acumulable con otras promociones vigentes. Ejemplo: En una compra de $1000 en un pago: el importe del ahorro es de $200. No aplica para compras realizadas con tarjetas de Credito Visa Business, Visa Rural y Tarjetas de Débito emitidas a por Anses para Asignación Universal por hijo ni Progresar. La promoción no aplica a pagos a través de billeteras virtuales (excepto Modo, Google Pay y Apple Pay), mPos y/o plataformas de pago online. MODO es marca registrada por Play Digital S.A., CUIT 30-71682943-6, con domicilio en Av. del Libertador 7208, Torre I, Piso 3, CABA (“PDSA”) y es un Proveedor de Servicios Tecnológicos de Banco de Galicia y Buenos Aires S.A. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio. El Banco podrá limitar o excluir el acceso a promociones y beneficios vigentes o futuros en caso de incumplimiento de los términos y condiciones de los productos y/o promociones, o conductas abusivas o contrarias a su finalidad. En caso de anulación, devolución o reversión de la transacción que originó el beneficio, el Banco podrá revocar el reintegro y debitar el importe correspondiente de la cuenta acreditada, la tarjeta de crédito o compensarlo con otros saldos o beneficios futuros. Ofrecido por Banco de Galicia y Buenos Aires S.A. CUIT: 30-50000173-5, Tte. J.D. Perón 430 (C1038AAI), CABA, Argentina.",
+   "aplica_segmento": true,
+   "sucursales": {
+    "carrefour_24sep": "no",
+    "carrefour_25mayo": "no",
+    "carrefour_lima": "no",
+    "vea_24sep": "no",
+    "anonima_libertad": "si"
+   }
+  },
+  {
+   "id": 189933,
+   "comercio": "Vea",
+   "porcentaje": 20,
+   "dias": [
+    "viernes"
+   ],
+   "desde": "04/11/2026",
+   "hasta": "30/11/2026",
+   "minimo": 100000.0,
+   "tope": 25000,
+   "tope_periodo": "Mensual",
+   "tope_agrupa_por": "Cliente",
+   "segmento": "Cross",
+   "solo_qr": true,
+   "tienda_fisica": true,
+   "via_modo": true,
+   "como_pagar": "Pagando con MODO desde la App Galicia, eligiendo tu <b>Tarjeta de Débito Visa o tus Tarjetas Galicia</b>.",
+   "acumulable": false,
+   "medios_facundo": {
+    "galicia_visa_debito": true,
+    "galicia_master_credito": true
+   },
+   "locales_total": 200,
+   "legales": "CARTERA DE CONSUMO. Promoción del 20% de ahorro en compras superiores a $100.000 realizadas en el país, en un pago sobre el precio de contado. Tope de reintegro: $25.000 en total por mes, incluye compras de adicionales. Válida para Viernes  comprendidos entre 04/11/2026 y el 30/11/2026, para compras realizadas con Tarjeta Galicia Débito, Tarjeta Visa y Tarjeta Mastercard. Promoción valida únicamente en los comercios adheridos. El importe ahorrado se acreditará dentro de los 10 días hábiles posteriores a la compra en la caja de ahorro común. Para acceder a la promoción, el participante deberá tener abierta una caja de ahorro común en el Banco, en donde se acreditará el monto del reintegro. Si el cliente tuviera más de una cuenta, el crédito se realizará en cualquiera de ellas a elección del Banco. Dicha promoción no es acumulable con otras promociones vigentes. Ejemplo: En una compra de $1000 en un pago: el importe del ahorro es de $200. No aplica para compras realizadas con tarjetas de Credito Visa Business, Visa Rural y Tarjetas de Débito emitidas a por Anses para Asignación Universal por hijo ni Progresar. La promoción no aplica a pagos a través de billeteras virtuales (excepto Modo, Google Pay y Apple Pay), mPos y/o plataformas de pago online. MODO es marca registrada por Play Digital S.A., CUIT 30-71682943-6, con domicilio en Av. del Libertador 7208, Torre I, Piso 3, CABA (“PDSA”) y es un Proveedor de Servicios Tecnológicos de Banco de Galicia y Buenos Aires S.A. Sólo podrán participar de la promoción aquellos clientes que al momento de comprar se encuentren al día con sus productos. Banco Galicia solo es el medio de pago para la adquisición del producto/servicio. El Banco podrá limitar o excluir el acceso a promociones y beneficios vigentes o futuros en caso de incumplimiento de los términos y condiciones de los productos y/o promociones, o conductas abusivas o contrarias a su finalidad. En caso de anulación, devolución o reversión de la transacción que originó el beneficio, el Banco podrá revocar el reintegro y debitar el importe correspondiente de la cuenta acreditada, la tarjeta de crédito o compensarlo con otros saldos o beneficios futuros. Ofrecido por Banco de Galicia y Buenos Aires S.A. CUIT: 30-50000173-5, Tte. J.D. Perón 430 (C1038AAI), CABA, Argentina.",
+   "aplica_segmento": true,
+   "sucursales": {
+    "carrefour_24sep": "no",
+    "carrefour_25mayo": "no",
+    "carrefour_lima": "no",
+    "vea_24sep": "si",
+    "anonima_libertad": "no"
+   }
+  }
+ ],
+ "descartes": {
+  "190224": "VEA.COM.AR: Hasta 12 cuotas sin interés (cuotas, no descuento)",
+  "190227": "VEA.COM.AR: Hasta 18 cuotas sin interés (cuotas, no descuento)"
+ },
+ "supermercados_todas": [
+  {
+   "id": 178589,
+   "titulo": "Tiendas Elten",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Masivo",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 178590,
+   "titulo": "Tiendas Elten",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Eminent",
+    "exclusivo": true
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 182468,
+   "titulo": "Mas Go",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182469,
+   "titulo": "Mas Go",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182472,
+   "titulo": "HiperChangomas",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182473,
+   "titulo": "SuperChangomas",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182474,
+   "titulo": "Changomas",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182475,
+   "titulo": "MasOnline",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182476,
+   "titulo": "HiperChangomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182477,
+   "titulo": "SuperChangomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182478,
+   "titulo": "Changomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182479,
+   "titulo": "MasOnline",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 183159,
+   "titulo": "Coto",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 183160,
+   "titulo": "Coto",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188596,
+   "titulo": "www.thefoodmarket.com.ar",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Jueves",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188686,
+   "titulo": "Supermercados La Anonima",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes y Sábado ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188687,
+   "titulo": "Supermercados El Nene",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-28T00:00:00"
+  },
+  {
+   "id": 188688,
+   "titulo": "Almacenes Pampas",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-28T00:00:00"
+  },
+  {
+   "id": 188689,
+   "titulo": "Almacenes de Marca",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-28T00:00:00"
+  },
+  {
+   "id": 188692,
+   "titulo": "Nini Mayorista",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Jueves",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-26T00:00:00"
+  },
+  {
+   "id": 188699,
+   "titulo": "The Food Market",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Jueves",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188702,
+   "titulo": "Mas Go",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Domingo",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188725,
+   "titulo": "Cooperativa Obrera",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Miércoles",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 189932,
+   "titulo": "Disco",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes y Sábado ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 189933,
+   "titulo": "Vea",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 189936,
+   "titulo": "Jumbo",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Martes y Jueves ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 190139,
+   "titulo": "Alvear Supermercados",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 190222,
+   "titulo": "DISCO.COM.AR",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190223,
+   "titulo": "JUMBO.COM.AR",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190224,
+   "titulo": "VEA.COM.AR",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190225,
+   "titulo": "DISCO.COM.AR",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190226,
+   "titulo": "JUMBO.COM.AR",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190227,
+   "titulo": "VEA.COM.AR",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190228,
+   "titulo": "MAKRO",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190229,
+   "titulo": "MAKRO",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  }
+ ]
+}
