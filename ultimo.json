@@ -1,0 +1,17 @@
+{
+ "fecha": "2026-11-19",
+ "generado": "2026-11-19T21:48:01-03:00",
+ "etiqueta": "d2026-11-19",
+ "archivo": "diario.tsv.gz",
+ "firma": "diario.sig",
+ "sha256": "ab14c92d6c821d789b7b8a6fef1ad296cf28e404090292fd18c0c6a3cb505262",
+ "bytes": 473275,
+ "fecha_sepa": "2026-11-15",
+ "fechas_promos": {
+  "modo": "2026-11-19",
+  "galicia": "2026-11-19",
+  "carrefour_promos": "2026-11-19",
+  "anonima_promos": "2026-11-15"
+ },
+ "alertas": 1
+}
