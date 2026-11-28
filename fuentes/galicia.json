@@ -1,0 +1,638 @@
+{
+ "fuente": "Galicia",
+ "auditoria": {
+  "consultado": "2026-11-27T22:43:19-03:00",
+  "catalogo_total": 1975,
+  "supermercados": 46,
+  "de_nuestras_cadenas": 4,
+  "por_tipo": {
+   "cuotas": 2,
+   "ahorro": 2
+  },
+  "aplican": 2
+ },
+ "promos": [
+  {
+   "id": 188686,
+   "comercio": "Supermercados La Anonima",
+   "porcentaje": null,
+   "dias": [],
+   "desde": null,
+   "hasta": null,
+   "minimo": null,
+   "tope": null,
+   "tope_periodo": null,
+   "tope_agrupa_por": null,
+   "segmento": "Cross",
+   "solo_qr": false,
+   "tienda_fisica": null,
+   "via_modo": false,
+   "como_pagar": "",
+   "acumulable": true,
+   "medios_facundo": {
+    "galicia_visa_debito": false,
+    "galicia_master_credito": false
+   },
+   "locales_total": 185,
+   "legales": "",
+   "aplica_segmento": true,
+   "sucursales": {
+    "carrefour_24sep": "no",
+    "carrefour_25mayo": "no",
+    "carrefour_lima": "no",
+    "vea_24sep": "no",
+    "anonima_libertad": "si"
+   }
+  },
+  {
+   "id": 189933,
+   "comercio": "Vea",
+   "porcentaje": null,
+   "dias": [],
+   "desde": null,
+   "hasta": null,
+   "minimo": null,
+   "tope": null,
+   "tope_periodo": null,
+   "tope_agrupa_por": null,
+   "segmento": "Cross",
+   "solo_qr": false,
+   "tienda_fisica": null,
+   "via_modo": false,
+   "como_pagar": "",
+   "acumulable": true,
+   "medios_facundo": {
+    "galicia_visa_debito": false,
+    "galicia_master_credito": false
+   },
+   "locales_total": 200,
+   "legales": "",
+   "aplica_segmento": true,
+   "sucursales": {
+    "carrefour_24sep": "no",
+    "carrefour_25mayo": "no",
+    "carrefour_lima": "no",
+    "vea_24sep": "si",
+    "anonima_libertad": "no"
+   }
+  }
+ ],
+ "descartes": {
+  "190224": "VEA.COM.AR: Hasta 12 cuotas sin interés (cuotas, no descuento)",
+  "190227": "VEA.COM.AR: Hasta 18 cuotas sin interés (cuotas, no descuento)"
+ },
+ "supermercados_todas": [
+  {
+   "id": 178589,
+   "titulo": "Tiendas Elten",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Masivo",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 178590,
+   "titulo": "Tiendas Elten",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Eminent",
+    "exclusivo": true
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 182468,
+   "titulo": "Mas Go",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182469,
+   "titulo": "Mas Go",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182472,
+   "titulo": "HiperChangomas",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182473,
+   "titulo": "SuperChangomas",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182474,
+   "titulo": "Changomas",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182475,
+   "titulo": "MasOnline",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182476,
+   "titulo": "HiperChangomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182477,
+   "titulo": "SuperChangomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182478,
+   "titulo": "Changomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 182479,
+   "titulo": "MasOnline",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 183159,
+   "titulo": "Coto",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 183160,
+   "titulo": "Coto",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188596,
+   "titulo": "www.thefoodmarket.com.ar",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Jueves",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188686,
+   "titulo": "Supermercados La Anonima",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes y Sábado ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188687,
+   "titulo": "Supermercados El Nene",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-28T00:00:00"
+  },
+  {
+   "id": 188688,
+   "titulo": "Almacenes Pampas",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-28T00:00:00"
+  },
+  {
+   "id": 188689,
+   "titulo": "Almacenes de Marca",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-28T00:00:00"
+  },
+  {
+   "id": 188699,
+   "titulo": "The Food Market",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Jueves",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188702,
+   "titulo": "Mas Go",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Domingo",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 188725,
+   "titulo": "Cooperativa Obrera",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Miércoles",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 189932,
+   "titulo": "Disco",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes y Sábado ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 189933,
+   "titulo": "Vea",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 189936,
+   "titulo": "Jumbo",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Martes y Jueves ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 190139,
+   "titulo": "Alvear Supermercados",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 190222,
+   "titulo": "DISCO.COM.AR",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190223,
+   "titulo": "JUMBO.COM.AR",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190224,
+   "titulo": "VEA.COM.AR",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190225,
+   "titulo": "DISCO.COM.AR",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190226,
+   "titulo": "JUMBO.COM.AR",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190227,
+   "titulo": "VEA.COM.AR",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190228,
+   "titulo": "MAKRO",
+   "promocion": "Hasta 12 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190229,
+   "titulo": "MAKRO",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190256,
+   "titulo": "www.thefoodmarket.com.ar",
+   "promocion": "20% de ahorro y hasta 6 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Masivo",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-02T00:00:00"
+  },
+  {
+   "id": 190257,
+   "titulo": "www.thefoodmarket.com.ar",
+   "promocion": "25% de ahorro y hasta 6 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Eminent",
+    "exclusivo": true
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-02T00:00:00"
+  },
+  {
+   "id": 190709,
+   "titulo": "DIA",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Viernes y Sábado ",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 190981,
+   "titulo": "Coto",
+   "promocion": "25% de ahorro",
+   "leyendaDiasAplicacion": "Martes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-11-30T00:00:00"
+  },
+  {
+   "id": 191048,
+   "titulo": "Changomas",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 191049,
+   "titulo": "MasOnline",
+   "promocion": "20% de ahorro",
+   "leyendaDiasAplicacion": "Lunes",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": true,
+   "fechaHasta": "2026-12-31T00:00:00"
+  },
+  {
+   "id": 191443,
+   "titulo": "Mas Go",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-08T00:00:00"
+  },
+  {
+   "id": 191444,
+   "titulo": "HiperChangomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-08T00:00:00"
+  },
+  {
+   "id": 191445,
+   "titulo": "SuperChangomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-08T00:00:00"
+  },
+  {
+   "id": 191446,
+   "titulo": "Changomas",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-08T00:00:00"
+  },
+  {
+   "id": 191447,
+   "titulo": "MasOnline",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-08T00:00:00"
+  },
+  {
+   "id": 191657,
+   "titulo": "Coto",
+   "promocion": "Hasta 18 cuotas sin interés",
+   "leyendaDiasAplicacion": "Todos los días",
+   "modeloAtencion": {
+    "nombre": "Cross",
+    "exclusivo": false
+   },
+   "pagoQR": false,
+   "fechaHasta": "2026-12-08T00:00:00"
+  }
+ ]
+}

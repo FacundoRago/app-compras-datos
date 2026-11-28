@@ -1,0 +1,98 @@
+{
+ "fecha": "2026-11-21",
+ "generado": "2026-11-21T20:32:02-03:00",
+ "duracion_segundos": 93,
+ "fuentes": {
+  "sepa": {
+   "resultado": "falla",
+   "codigo_salida": 1,
+   "segundos": 1,
+   "detalle": "4, in main\n    rec = elegir_recurso(a.dia)\n          ^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/app-compras/app-compras/fuentes/sepa.py\", line 46, in elegir_recurso\n    pkg = comun.get_json(CKAN)[\"result\"]\n          ^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/app-compras/app-compras/fuentes/comun.py\", line 66, in get_json\n    raise RuntimeError(f\"HTTP {status} en {url}: {cuerpo[:300]}\")\nRuntimeError: HTTP 403 en https://datos.produccion.gob.ar/api/3/action/package_show?id=sepa-precios: <!doctype html><html lang=\"en\"><meta charset=\"UTF-8\"><meta content=\"nofollow,noarchive,noindex\" name=\"robots\"><title>403 | Forbidden</title><meta content=\"width=device-width,initial-scale=1\" name=\"viewport\"><meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"><meta content=\"403 | Forbidden\" name=\"ti\n",
+   "usa_resultado_anterior": true
+  },
+  "modo": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 76
+  },
+  "galicia": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 14
+  },
+  "carrefour_promos": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 0
+  },
+  "anonima_promos": {
+   "resultado": "ok_desde_pc",
+   "fecha_pc": "2026-11-15",
+   "dias": 6,
+   "segundos": 0
+  },
+  "brubank": {
+   "resultado": "ok",
+   "codigo_salida": 0,
+   "segundos": 0
+  }
+ },
+ "conteos": {
+  "sepa": {},
+  "modo": {
+   "promos_que_aplican": 4,
+   "auditoria_candidatas": 1249,
+   "auditoria_vigentes_o_proximas": 1100,
+   "auditoria_aplican": 4,
+   "auditoria_descartadas": 1096
+  },
+  "galicia": {
+   "promos_que_aplican": 2,
+   "auditoria_catalogo_total": 1871,
+   "auditoria_supermercados": 39,
+   "auditoria_de_nuestras_cadenas": 4,
+   "auditoria_aplican": 2
+  },
+  "carrefour_promos": {
+   "filas": 178,
+   "vigentes": 31,
+   "vigentes_express": 16,
+   "aplican_a_facundo": 2
+  },
+  "anonima_promos": {
+   "tarjetas_en_pagina": 111,
+   "promos_distintas": 65,
+   "aplican_o_dudosas": 2
+  },
+  "brubank": {
+   "beneficios": 85,
+   "de_supermercados": 1,
+   "de_nuestras_cadenas": 0
+  }
+ },
+ "archivo": {
+  "origen_sepa": "previo",
+  "fecha_sepa": "2026-11-15",
+  "fechas_promos": {
+   "modo": "2026-11-21",
+   "galicia": "2026-11-21",
+   "carrefour_promos": "2026-11-21",
+   "anonima_promos": "2026-11-15"
+  },
+  "lineas_por_tipo": {
+   "M": 7,
+   "S": 7,
+   "P": 9931,
+   "$": 25813,
+   "A": 91,
+   "R": 453,
+   "B": 3730,
+   "Q": 10
+  },
+  "bytes_gzip": 473275,
+  "sha256": "5ea03c64c5a92472ad08626a3819810d9b48295c494fb2b8238de0430b992274"
+ },
+ "alertas": [
+  "sepa: FALLÓ (código 1); se usa el último resultado bueno"
+ ]
+}
